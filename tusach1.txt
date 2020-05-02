@@ -1,0 +1,1 @@
+['ten sach:lichsu , mã sách: 02 , giá sách: 10000\n', 'ten sach:hoahoc , mã sách: 03 , giá sách: 12000 \n', 'ten sach:tienganh , mã sách: 05 , giá sách: 20000 \n']['ten sach:lichsu , mã sách: 02 , giá sách: 10000\n', 'ten sach:hoahoc , mã sách: 03 , giá sách: 12000 \n', 'ten sach:tienganh , mã sách: 05 , giá sách: 20000 \n']
