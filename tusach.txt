@@ -1,0 +1,2 @@
+ten sach:hoahoc , mã sách: 03 , giá sách: 12000
+ten sach:tienganh , mã sách: 05 , giá sách: 20000
